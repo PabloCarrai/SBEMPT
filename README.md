@@ -5,5 +5,5 @@ Script en bash para enviar un mensaje a un bot de telegram. El mensaje es inicia
 Forma de uso:
 Configura el archivo config.env-Ejemplo con los datos necesarios y renombralo a config.env. Luego ejecuta 
 
-bash EnviarMensaje.sh Iniciando
+bash EnviarMensaje.sh Iniciando<br>
 bash EnviarMensaje.sh Finalizando
