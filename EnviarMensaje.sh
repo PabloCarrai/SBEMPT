@@ -1,6 +1,6 @@
 #!/bin/bash
 
-source config.env 
+source /home/sadosky/SBEMPT/config.env 
 
 TOKEN=$TOKENVALUE
 CHAT_ID=$CHAT_IDVALUE
